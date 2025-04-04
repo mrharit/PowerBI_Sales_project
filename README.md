@@ -1,7 +1,4 @@
 # PowerBI_Sales_project
-Sure! Based on the data from the `Plant_DTS.xls` file, here's a detailed explanation for your README file:
-
----
 
 # Project Overview
 
